@@ -1,0 +1,2 @@
+ALTER TABLE Libros ADD COLUMN categoria 
+VARCHAR(100) NOT NULL DEFAULT "General";
